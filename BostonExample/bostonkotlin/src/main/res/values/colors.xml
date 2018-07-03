@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="greysuperlight">#11333333</color>
+    <color name="greylight">#33333333</color>
+    <color name="greymedium">#55333333</color>
+    <color name="greydark">#77333333</color>
+    <color name="greydarker">#99333333</color>
+    <color name="bluesuperlight">#110033FF</color>
+    <color name="bluelight">#330033FF</color>
+    <color name="bluemedium">#550033FF</color>
+    <color name="bluedark">#770033FF</color>
+    <color name="bluedarker">#990033FF</color>
+    <color name="working">#99FFF414</color>
+    <color name="error">#99FF0000</color>
+</resources>
