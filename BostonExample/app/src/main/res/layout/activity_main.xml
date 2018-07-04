@@ -15,4 +15,17 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <com.alexmasson58.bostonkotlin.textviews.UnlockableBostonTextView
+        android:id="@+id/unlockbtv"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+
+        android:text="test"
+
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bostonLoader" />
+
 </android.support.constraint.ConstraintLayout>
